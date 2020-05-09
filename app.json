@@ -1,0 +1,20 @@
+[
+    {
+        "emp1":{
+            "first":"Jon",
+            "last":"Doe",
+            "age":35,
+            "Kids":["John jr","Sara"],
+            "married":false
+        }
+    },
+    {
+        "emp2":{
+            "first":"Jane",
+            "last":"Doe",
+            "age":30,
+            "married":true
+        }
+    }
+
+]
